@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952856755883",
+    "project_id": "picxcel-1bde4",
+    "storage_bucket": "picxcel-1bde4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952856755883:android:3d7dac9d11a7c9d60f81ee",
+        "android_client_info": {
+          "package_name": "com.example.imageorganizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYO_Zr0sZlLj4dlBPfSMMOGKZM-K8LxX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
